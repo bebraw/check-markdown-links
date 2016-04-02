@@ -1,6 +1,6 @@
 {
   "name": "check-markdown-links",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Checks the status of links found within Markdown files of the given directory",
   "main": "index.js",
   "bin": "index.js",
