@@ -1,6 +1,6 @@
 # check-markdown-links - Checks links of Markdown files in the given directory
 
-* CLI: `check-markdown-links >directory>`
+* CLI: `check-markdown-links <directory>`
 * Node:
 
 ```javascript
